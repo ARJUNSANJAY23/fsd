@@ -1,0 +1,22 @@
+body{
+	padding: 30px;
+}
+#out4{
+	padding: 50px;
+	background-color: silver;
+	max-width: 800px;
+	height: 400px;
+
+}
+#out3{
+	max-width: 600px;
+	height: 400px;
+	background-color: orange;
+	margin: 0 auto;
+}
+#out2{
+	max-width: 400px
+	height:400px;
+	background-color: pink;
+	margin: 0 auto;
+}
